@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.pixeltrice.springbootpaytmpayment.SpringBootPaytmPaymentApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.207 s <<< FAILURE! - in com.pixeltrice.springbootpaytmpayment.SpringBootPaytmPaymentApplicationTests
+com.pixeltrice.springbootpaytmpayment.SpringBootPaytmPaymentApplicationTests  Time elapsed: 0.205 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
